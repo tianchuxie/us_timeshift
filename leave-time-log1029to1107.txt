@@ -1,0 +1,8 @@
+leave-time-Logs 10/29-11/7: 
+10/29   Robert:4:40   ; Matti: 5:07   ; siqi maro 5:45       
+10/30   Robert:4:50   ; Matti: 5:11   ; Christophe 9:38       
+10/31   Robert:5:04   ; Matti: 5:02   ; Jose 4:56  ;  Christophe 5:04       
+11/4     Robert:12:43; 5:07   ; Matti: 9:20; 5:16  ;   Christophe 9:42       
+11/5     Robert:---- ; Matti: 9:18; 5:07  ;   Christophe 9:49  
+11/6     Robert:1:36; Matti: 9:15; 5:07  ;   Christophe 9:23    siqi: 1:42       
+11/7     Robert:; Matti: 9:17; 5:10  ; 
