@@ -19,6 +19,7 @@ The function is called `async insertMonthlyRecord()` should be in the DBX system
 `    
 
 async insertMonthlyRecord() {
+
         fileName = "D:/X/test/ACF.HHS_SYNC_TRANS.20190830.txt";
         const lastNegativeDigit = {
             "}": 0,
