@@ -17,12 +17,7 @@ record time-shift
 File Name: server\server\src\_data\ein-pmsData-parse.js <br/>
 The function is called `async insertMonthlyRecord()` should be in the DBX system. 
 `    async insertMonthlyRecord() {
-        console.log('update this month');
-        /***
-         * mapping to get the last digits 
-         * 
-         */
-
+        fileName = "D:/X/test/ACF.HHS_SYNC_TRANS.20190830.txt";
         const lastNegativeDigit = {
             "}": 0,
             "J": 1,
@@ -51,7 +46,7 @@ The function is called `async insertMonthlyRecord()` should be in the DBX system
 
         var fs = require("fs");
         var titleChar = "ACF";
-        var text = fs.readFileSync("D:/X/test/ACF.HHS_SYNC_TRANS.20190830.txt", "utf-8");
+        var text = fs.readFileSync(fileName, "utf-8");
         var textByLine = text.split("\n");
         var k = new Date();
         k.setMonth(7);
